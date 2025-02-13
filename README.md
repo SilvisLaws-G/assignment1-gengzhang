@@ -6,9 +6,8 @@
 - [link text](comp1238.md)
 - [about autograder](autograder_instructions.md)
 ## Schedule
-* Project Management
+* Monday
+  * [INTRODUCTION TO PROJECT MANAGEMENT](https://learn.georgebrown.ca/d2l/home/331332)
 * COMP1111
 * comp2222
   * 12345
-
-⋅⋅* 3243424243
