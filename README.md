@@ -20,6 +20,6 @@
   * 10:00AM - 10:59AM [Introduction to Data Management COMP1238](https://learn.georgebrown.ca/d2l/home/334969)
   * 14:00PM - 15:59PM [Foundation of Computing Logic COMP1236](https://learn.georgebrown.ca/d2l/home/337951)
 * Friday
-  *14:00PM - 15:59PM [Details for IT Essentials COMP1151](https://learn.georgebrown.ca/d2l/home/335101)
+  * 14:00PM - 15:59PM [Details for IT Essentials COMP1151](https://learn.georgebrown.ca/d2l/home/335101)
 
   
