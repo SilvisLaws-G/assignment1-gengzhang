@@ -7,7 +7,7 @@
 - [about autograder](autograder_instructions.md)
 ## Schedule
 * Monday
-  * [INTRODUCTION TO PROJECT MANAGEMENT](https://learn.georgebrown.ca/d2l/home/331332)
+  * 08:00AM - 09:59AM [INTRODUCTION TO PROJECT MANAGEMENT](https://learn.georgebrown.ca/d2l/home/331332)
 * COMP1111
 * comp2222
   * 12345
